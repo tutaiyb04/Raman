@@ -1,0 +1,12 @@
+# Loại bỏ thư mục đóng gói
+dist/
+build/
+*.spec
+
+# Loại bỏ môi trường ảo (nếu có)
+venv/
+.venv/
+
+# Loại bỏ các file tạm của Python
+__pycache__/
+*.pyc
